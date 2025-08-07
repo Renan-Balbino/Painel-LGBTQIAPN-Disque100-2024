@@ -1,0 +1,13 @@
+name: Painel-LGBTQIA-Disque100-2024
+title: Painel-LGBTQIA-Disque100-2024
+username: renan-balbino
+account: renan-balbino
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15128687
+bundleId: 10737840
+url: https://renan-balbino.shinyapps.io/Painel-LGBTQIA-Disque100-2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Dados Filtrados.xlsx|pages/disque100.R|pages/home.R|rascunho.R|ScriptDisque100v8.R|www/navbar.css|www/OpenSans.ttf

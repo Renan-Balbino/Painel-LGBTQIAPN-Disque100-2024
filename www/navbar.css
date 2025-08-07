@@ -1,0 +1,8 @@
+.custom-navbar-container {
+  max-width: 1080px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start; /* alinha à esquerda */
+  gap: 1rem; /* espaço entre os itens */
+}
